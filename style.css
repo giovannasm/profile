@@ -1,9 +1,9 @@
 body {
   background: #E8EEF2;
   color: #2E5266;
-  font-family: 'Lora', serif;
-  font-size: 17px;
-  font-weight: lighter;
+  font-family: 'Dosis', sans-serif;
+  font-size: 18px;
+  font-weight: 300;
 }
 h1, h2, #btn-main {
   font-family: 'Open Sans', sans-serif;
@@ -15,7 +15,7 @@ h1 {
 }
 h2 {
   font-size: 18px;
-  font-weight: 400;
+  font-weight: 300;
 }
 a {
   text-decoration: none;
